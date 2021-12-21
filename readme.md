@@ -52,13 +52,13 @@ _Ejemplo: Para poder hacer loggin en nuestro proyecto_
 
 ```
     1. *IMPORTANTE:* Tener la base de datos bien linkada
-    2. Utilizar de usuario "asd@asd.edu" y password "1234" en caso de acceder como responsable
-    3. Utilizar el usuario "admin@admin.com" y password "1234" en caso de acceder como SuperAdmin
+    2. user= isaac@fje.edu pass=1234   (es admin)
+    3. user= blumal@fje.edu pass=1234 (es CAMARERO)
 ```
 
 ## Despliegue 📦
 
-_Hemos alojado nuestro proyecto en una web de hosting gratuito. Para poder testear la web, hacer click en el enlace (https://rssisaac.000webhostapp.com/view/inicio.php#) y podreis testear la web._
+_Hemos alojado nuestro proyecto en una web de hosting gratuito. Para poder testear la web, hacer click en el enlace (iomproject.epizy.com) y podreis testear la web._
 _Pasos para desplegar el proyecto en la pagina de hosting._
 ```
     1. Crear la base de datos. Tendremos que añadir un nombre de la db, nombre de usuario y password.
@@ -68,6 +68,7 @@ _Pasos para desplegar el proyecto en la pagina de hosting._
     5. IMPORTANTE: no borrar la carpeta htaccess y tmp
     6. Si salen warning/errores arreglarlos
 ```
+
 
 ## Construido con 🛠️
 
@@ -80,13 +81,10 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 _Si quieres colaborar en este proyecto, puede realizar su colaboración a través de BIZUM con el siguiente número +34 123456789._
 
-## Wiki 📖
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/raulscz/PR1-Restaurante)
 
 ## Versionado 📌
 
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/easyiom/bcn-vol). _Versión Actual del Proyecto: 0.1.0_
+Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/easyiom/pr2). _Versión Actual del Proyecto: 0.1.0_
 
 ## Autores ✒️
 
